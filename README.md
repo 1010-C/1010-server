@@ -42,6 +42,6 @@ Start up the server
 
 > python3 manage.py runserver
 
-### NOTE : Am explicitly using `python3`
+`NOTE : Am explicitly using python3`
 
 ### codificación feliz!
