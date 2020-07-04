@@ -1,4 +1,4 @@
-#1010-Creators Server
+# 1010-Creators Server
 
 ## Local Setup
 
@@ -25,7 +25,7 @@ Pull
 Install dependencies
 
 Ensure you have postgres installed on your machine.
-Check out [this!](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04) guide for linux users.
+Check out [this](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04) guide for linux users.
 
 Create a new database.
 
@@ -33,7 +33,7 @@ Create a new database.
 
 Make sure you have this environment variables set
 * DB_NAME (The name of the database you created )
-* DB_USERNAME (The user that owns the databas you created. High chances thats its your username ;) )
+* DB_USERNAME (The user that owns the database you created. High chances thats its your username ;) )
 * DB_PASSWORD (Database password. High chances its your password )
 * DB_PORT (You may set this to an empty string, Django knows)
 * DB_HOST (You may set this to an empty string, Django knows)
